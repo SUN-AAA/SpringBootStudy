@@ -1,6 +1,8 @@
-package com.example.demo.Entity;
+package com.example.demo.Answer;
 
 import java.time.LocalDateTime;
+
+import com.example.demo.Question.Question;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
